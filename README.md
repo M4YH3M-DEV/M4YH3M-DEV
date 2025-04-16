@@ -1,4 +1,7 @@
 <h1 align="center">Hey there 👋, I'm M4YH3M</h1>
+
+![Banner](./M4YH3M-BANNER(1).png)
+
 <p align="center">🚀 Building an AI-powered Edu-platform | 🤖 Hardware & Robotics Enthusiast | 🧠 AI/ML Explorer </p>
 <h3 align="center"> 🐧 I use Arch btw </h3>
 
@@ -28,7 +31,7 @@
 - Integration into Edu-tech platforms  
 
 ---
-## 💻 Tech Stack
+## 💻 Tech Stack | Expertise
 
 ### 🧠 Programming Languages
 <p align="center">
@@ -147,9 +150,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=M4YH3M-DEV&icon=0&color=0" />
-  </a>
-</p>
