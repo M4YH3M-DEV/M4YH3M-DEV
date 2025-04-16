@@ -1,9 +1,7 @@
-<h1 align="center">Hey there 👋, I'm M4YH3M</h1>
-
-![Banner](./M4YH3M-BANNER(1).png)
+![Banner](./M4YH3M-BANNER-v2(1).png)
 
 <p align="center">🚀 Building an AI-powered Edu-platform | 🤖 Hardware & Robotics Enthusiast | 🧠 AI/ML Explorer </p>
-<h3 align="center"> 🐧 I use Arch btw </h3>
+
 
 ---
 
