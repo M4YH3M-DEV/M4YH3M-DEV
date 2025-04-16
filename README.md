@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm M4YH3M</h1>
-<p align="center">🚀 Building an AI-powered Edu-platform | 🤖 Hardware & Robotics Enthusiast | 🧠 AI/ML Explorer | 🐧 I use Arch btw</p>
+<p align="center">🚀 Building an AI-powered Edu-platform | 🤖 Hardware & Robotics Enthusiast | 🧠 AI/ML Explorer </p>
+<h3 align="center"> 🐧 I use Arch btw </h3>
 
 ---
 
@@ -18,8 +19,6 @@
 - 🧠 AI/ML | LLMs | Fine-Tuning & Dataset Engineering  
 - 🎮 Game Dev (Basics)  
 - 🛠️ CAD + 3D Modeling (Blender, Fusion 360, SolidWorks) + CFD  
-- 💻 Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`  
-- 🐧 I use Arch btw
 
 ### 🌱 Currently Learning:
 - Deep AI/ML workflows  
@@ -32,7 +31,7 @@
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -45,7 +44,7 @@
 </p>
 
 ### 🌐 Frameworks & Libraries
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
@@ -56,7 +55,7 @@
 </p>
 
 ### 📊 AI/ML Platforms
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -66,7 +65,7 @@
 </p>
 
 ### 🧪 Simulation Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Gazebo-2C5E9E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -75,7 +74,7 @@
 </p>
 
 ### 🛠️ Tools & Software
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidWorks-E22127?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -90,7 +89,7 @@
 </p>
 
 ### 🐧 Operating Systems & Dev Environments
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -98,7 +97,7 @@
 </p>
 
 ### 🔌 Hardware & Electronics
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%204-B22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-B22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
@@ -108,7 +107,7 @@
 </p>
 
 ### ☁️ Cloud & DevOps
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -116,7 +115,7 @@
 </p>
 
 ### 🔧 Version Control
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
