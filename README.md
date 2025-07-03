@@ -1,6 +1,6 @@
 ![Banner](./M4YH3M-BANNER-v2(1).png)
 
-<p align="center">🚀 Building an AI-powered Edu-platform | 🤖 Hardware & Robotics Enthusiast | 🧠 AI/ML Explorer </p>
+<p align="center">🚀 Building an Open-Source Edu-platform | 🤖 Hardware & Robotics Enthusiast </p>
 
 
 ---
