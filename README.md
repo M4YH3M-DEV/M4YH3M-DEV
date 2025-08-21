@@ -67,7 +67,6 @@
 ### 🛠️ Tools & Software
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-E22127?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
