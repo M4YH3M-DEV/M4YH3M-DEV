@@ -15,11 +15,11 @@
 ### ⚡ Interests & Skills:
 - 🤖 Robotics & Embedded Systems  
 - 🌐 Full Stack Web Development  
-- 🎨 UI/UX Design (Flutter, Canva)  
+- 🎨 UI/UX Design (Canva)  
 - 📱 App Dev (Android Studio)  
-- 🧠 AI/ML | LLMs | Fine-Tuning & Dataset Engineering  
+- 🧠 LLMs | Fine-Tuning & Dataset Engineering  
 - 🎮 Game Dev (Basics)  
-- 🛠️ CAD + 3D Modeling (Blender, Fusion 360, SolidWorks) + CFD  
+- 🛠️ CAD + 3D Modeling (Blender, Fusion 360) + CFD  
 
 ### 🌱 Currently Learning:
 - Deep AI/ML workflows  
