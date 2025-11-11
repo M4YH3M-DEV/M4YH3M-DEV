@@ -2,7 +2,7 @@
 <!--          M4YH3M | Deep-Tech Innovator README     -->
 <!-- ──────────────────────────────────────────────── -->
 
-![Banner](./M4YH3M-BANNER-v2(1).png)
+![Banner](./M4YH3M-BANNER-v4.png)
 
 <h1 align="center">⚡ M4YH3M — Innovator • Hacker • Builder</h1>
 <h3 align="center">🤖 Deep-Tech | Embedded AI | Human–Machine Interfaces</h3>
