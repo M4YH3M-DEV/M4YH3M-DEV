@@ -7,7 +7,6 @@
 <h3 align="center">🤖 Robotics | Embedded Systems | Hardware | Product Development</h3>
 
 <p align="center">
-  <a href="https://github.com/M4YH3M-DEV"><img src="https://img.shields.io/github/followers/M4YH3M-DEV?label=Follow&style=social"></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=M4YH3M-DEV&label=Profile%20Views&color=blueviolet&style=flat" /></a>
 </p>
 
